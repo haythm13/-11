@@ -1,5 +1,5 @@
-[اختبارات_ميكانيك_العاذرية.html](https://github.com/user-attachments/files/32655972/_._.html)
-
+[اختبارات_ميكانيك_العاذرية.html](https://github.com/user-attachments/files/32656507/_._.html)
+<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
