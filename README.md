@@ -1,14 +1,4 @@
-[اختبارات_ميكانيك_العاذرية.html](https://github.com/user-attachments/files/32656937/_._.html)
-<html lang="ar" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>اختبارات ميكانيك العاذرية</title>
-    <meta name="application-name" content="اختبارات ميكانيك العاذرية">
-    <meta property="og:title" content="اختبارات ميكانيك العاذرية">
-    <meta name="description" content="اختبارات ميكانيك العاذرية - منصة اختبارات الدورات الميكانيكية">
-    
-    <!-- مكتبات Firebase الأساسية -->
+[اختبارات_ميكانيك_العاذرية.html](https://github.com/user-attachments/files/32657585/_._.htbase الأساسية -->
     <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
 
