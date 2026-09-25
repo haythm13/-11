@@ -1,4 +1,4 @@
-[اختبارات_ميكانيك_العاذرية.html](https://github.com/user-attachments/files/32657585/_._.htbase الأساسية -->
+[اختبارات_ميكانيك_العاذرية.html]base الأساسية -->
     <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
 
